@@ -53,6 +53,7 @@ li {
     background-color: rgb(25, 82, 25);
     margin-top: 30px;
     bottom: 0;
+    position: fixed;
 }
 
 .images {
