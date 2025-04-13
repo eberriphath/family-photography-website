@@ -49,12 +49,17 @@ li {
    width: 200px;
    height: 130px;
    text-align: center;
-   border-radius: 10px;
-   padding: 70px;
+   border-radius: 30px;
+   padding: 80px;
    background-color: rgb(129, 68, 68);
 }
 img {
     height: 150px;
     width: 250px;
+    
 }
+p {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
