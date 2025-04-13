@@ -37,6 +37,10 @@ li {
     gap: 10px;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    border: 1px solid black;
+    border-top: 2px;
+    border-bottom: 2px;
+    
 }
 
 .footer {
@@ -69,4 +73,8 @@ img {
 p {
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: bisque;
 }
